@@ -1,3 +1,9 @@
 {
-  "cSpell.words": ["displayer", "outputtable"]
+  "cSpell.words": [
+    "cmdmanager",
+    "displayer",
+    "filemanager",
+    "iomanager",
+    "outputtable"
+  ]
 }
