@@ -5,6 +5,7 @@
     "displayer",
     "filemanager",
     "iomanager",
-    "outputtable"
+    "outputtable",
+    "signup"
   ]
 }
